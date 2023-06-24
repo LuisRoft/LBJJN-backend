@@ -1,4 +1,4 @@
-### Running project
+### Staging Branch - Running project
 
 **First time only:**  
 You need to create an **env** folder, copy file **env.example** (from **code_project** directory) inside it with name dev.env or staging.env, and update values accordingly (for example, put DJANGO_SETTINGS_MODULE=init_project.settings for development).
